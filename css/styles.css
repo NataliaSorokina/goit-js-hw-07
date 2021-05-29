@@ -1,0 +1,10 @@
+/* Task 3 */
+.list {
+  list-style: none;
+}
+
+.collection {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
